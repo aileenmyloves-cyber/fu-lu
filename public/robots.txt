@@ -1,0 +1,19 @@
+User-agent: *
+Crawl-delay: 10
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: AliyunSecBot
+Disallow: /
+
+User-agent: AwarioBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: axios
+Disallow: /
+
+Sitemap: https://qrpayproo.test/sitemap.xml
